@@ -1,7 +1,7 @@
 {
   "name": "DeadPixelZapper",
   "author": "Oscar (JohnBerger3000 on GitHub)"
-",
+,
   "version": "1.0.0",
   "description": "A PixInsight script that zaps (removes) dead pixels",
   "files": [
