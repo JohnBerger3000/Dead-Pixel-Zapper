@@ -1,0 +1,14 @@
+{
+  "name": "DeadPixelZapper",
+  "author": "Oscar (JohnBerger3000 on GitHub)"
+",
+  "version": "1.0.0",
+  "description": "A PixInsight script that zaps (removes) dead pixels",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/JohnBerger3000/Dead-Pixel-Zapper/refs/heads/main/scripts/DeadPixelZapper.js",
+      "type": "script",
+      "name": "DeadPixelZapper.js"
+    }
+  ]
+}
