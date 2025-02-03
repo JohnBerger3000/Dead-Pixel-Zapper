@@ -7,7 +7,7 @@
   </description>
    <platform os="all" arch="noarch" version="1.8.9-3:1.9.2">
       <package fileName="Deadpixelzapper.7z"
-               sha1="2F51985494DF888C3B33A4221A264F22911D8F86"
+               sha1="DCDF6DEC0D804DE88B6E97A23FE604958CC20D58"
                type="script"
                releaseDate="20240202">
          <title>
