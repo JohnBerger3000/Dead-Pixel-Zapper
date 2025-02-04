@@ -6,7 +6,7 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.9-3:1.9.2">
-      <package fileName="DeadPixelZapper.js"
+      <package fileName="DeadPixelZapper.7z"
                sha1="34FA809BE5FE44AE17E7164F66E4BFCCACD59B6E"
                type="script"
                releaseDate="20240202">
