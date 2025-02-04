@@ -6,7 +6,7 @@
   "description": "A PixInsight script that zaps (removes) dead pixels",
   "files": [
     {
-      "url": "https://raw.githubusercontent.com/JohnBerger3000/Dead-Pixel-Zapper/refs/heads/main/scripts/DeadPixelZapper.js",
+      "url": "https://raw.githubusercontent.com/JohnBerger3000/Dead-Pixel-Zapper/refs/heads/main/DeadPixelZapper.7z",
       "type": "script",
       "name": "DeadPixelZapper.js"
     }
