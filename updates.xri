@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+     <p>
+        Dead Pixel Zapper - A PixInsight script that zaps (removes) dead pixels.
+     </p>
+  </description>
+   <platform os="all" arch="noarch" version="1.8.9-3:1.9.2">
+      <package fileName="Deadpixelzapper.js"
+               sha1="2F51985494DF888C3B33A4221A264F22911D8F86"
+               type="script"
+               releaseDate="20240202">
+         <title>
+            Dead Pixel Zapper v1.0
+         </title>
+         <description>
+            <p>
+               A PixInsight script that zaps (removes) dead pixels.
+            </p>
+            <p>
+               Copyright (c) 2024 John Berger. All Rights Reserved.
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
