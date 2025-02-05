@@ -5,8 +5,8 @@
         Dead Pixel Zapper - A PixInsight script that zaps (removes) dead pixels.
      </p>
   </description>
-   <platform os="all" arch="noarch" version="1.8.9-2:1.9.2">
-      <package fileName="DeadPixelZapper.7z" sha1="7e751130aefb316af092f7ba572e6f1ab62b78b7" type="script" releaseDate="20240204115030">
+   <platform os="all" arch="noarch" version="1.8.9-2:1.9.99">
+      <package fileName="DeadPixelZapper-1.0.zip" sha1="37ccd12e0ffc11210b16037af99bb962c9966ea9" type="script" releaseDate="20240205055600">
          <title>
             Dead Pixel Zapper v1.0
          </title>
